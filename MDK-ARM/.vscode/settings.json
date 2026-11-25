@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "pid.h": "c",
+        "m3508.h": "c",
+        "dbus.h": "c",
+        "mech_wheel_cal.h": "c",
+        "mech_wheel.h": "c",
+        "bsp_can.h": "c",
+        "bsp_tim.h": "c",
+        "usart.h": "c"
+    }
+}
